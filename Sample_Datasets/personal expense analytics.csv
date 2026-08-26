@@ -1,0 +1,1001 @@
+﻿Date,Category,Description,Payment_Mode,Amount
+21-06-2025,Bills,Fuel,UPI,4040
+01-04-2025,Healthcare,Train Ticket,Credit Card,4387
+05-05-2025,Transport,Groceries,Credit Card,2613
+21-11-2025,Transport,Groceries,Net Banking,4418
+23-08-2025,Entertainment,Amazon Purchase,UPI,2960
+04-09-2025,Entertainment,Movie Ticket,Debit Card,3781
+15-12-2025,Education,Medical Checkup,Credit Card,612
+23-09-2025,Travel,Medical Checkup,Net Banking,3136
+05-04-2025,Shopping,Online Course,Debit Card,3418
+09-04-2025,Shopping,Fuel,Credit Card,3276
+10-10-2025,Transport,Mobile Recharge,Net Banking,4780
+02-05-2025,Travel,Fuel,Credit Card,3021
+21-09-2025,Travel,Online Course,UPI,2689
+28-09-2025,Travel,Online Course,Debit Card,3551
+16-03-2025,Shopping,Movie Ticket,Debit Card,3470
+29-04-2025,Healthcare,Movie Ticket,UPI,2010
+03-08-2025,Education,Train Ticket,Credit Card,4818
+15-09-2025,Bills,Online Course,Debit Card,2992
+13-01-2025,Bills,Electricity Bill,Net Banking,3447
+02-03-2025,Education,Electricity Bill,Net Banking,3519
+08-02-2025,Shopping,Mobile Recharge,UPI,4615
+15-05-2025,Transport,Fuel,Credit Card,2404
+04-08-2025,Bills,Train Ticket,UPI,2124
+26-12-2025,Healthcare,Groceries,Net Banking,1974
+17-12-2025,Shopping,Mobile Recharge,UPI,2578
+28-06-2025,Entertainment,Groceries,Net Banking,1072
+12-02-2025,Transport,Fuel,Credit Card,629
+31-08-2025,Bills,Online Course,Debit Card,4243
+22-04-2025,Shopping,Train Ticket,Net Banking,1259
+02-08-2025,Entertainment,Groceries,Debit Card,3949
+03-06-2025,Shopping,Medical Checkup,Debit Card,3266
+25-02-2025,Travel,Electricity Bill,Debit Card,2789
+08-01-2025,Education,Mobile Recharge,Debit Card,2868
+20-05-2025,Travel,Online Course,Credit Card,390
+10-10-2025,Education,Mobile Recharge,Net Banking,3364
+23-01-2025,Healthcare,Train Ticket,Credit Card,4528
+24-03-2025,Healthcare,Amazon Purchase,Debit Card,3161
+05-07-2025,Travel,Mobile Recharge,Debit Card,3518
+11-01-2025,Education,Train Ticket,UPI,55
+23-06-2025,Entertainment,Medical Checkup,Debit Card,1508
+20-01-2025,Bills,Movie Ticket,Net Banking,1417
+20-06-2025,Healthcare,Online Course,UPI,1731
+12-01-2025,Entertainment,Fuel,Net Banking,1447
+16-01-2025,Healthcare,Groceries,Credit Card,2240
+29-08-2025,Education,Electricity Bill,UPI,1756
+29-10-2025,Transport,Train Ticket,Debit Card,544
+04-04-2025,Entertainment,Mobile Recharge,Debit Card,4286
+20-04-2025,Shopping,Medical Checkup,Debit Card,4853
+27-06-2025,Entertainment,Mobile Recharge,UPI,838
+01-09-2025,Travel,Amazon Purchase,UPI,1319
+07-09-2025,Healthcare,Online Course,Net Banking,4548
+02-04-2025,Entertainment,Train Ticket,Net Banking,1200
+15-10-2025,Entertainment,Mobile Recharge,Credit Card,1554
+21-04-2025,Transport,Mobile Recharge,Debit Card,1033
+18-12-2025,Education,Groceries,Credit Card,4323
+09-03-2025,Entertainment,Movie Ticket,Credit Card,1988
+21-05-2025,Healthcare,Medical Checkup,Debit Card,3203
+23-03-2025,Education,Electricity Bill,UPI,3185
+13-10-2025,Shopping,Amazon Purchase,Debit Card,139
+10-10-2025,Healthcare,Movie Ticket,Debit Card,3760
+08-09-2025,Education,Train Ticket,Credit Card,2807
+17-04-2025,Entertainment,Train Ticket,Debit Card,239
+11-07-2025,Entertainment,Groceries,Debit Card,2217
+21-05-2025,Bills,Amazon Purchase,UPI,1647
+16-12-2025,Entertainment,Train Ticket,Debit Card,2615
+17-03-2025,Bills,Amazon Purchase,Credit Card,1852
+23-02-2025,Travel,Mobile Recharge,Debit Card,520
+30-08-2025,Shopping,Groceries,UPI,3377
+28-10-2025,Shopping,Train Ticket,Credit Card,3991
+18-03-2025,Shopping,Mobile Recharge,UPI,4944
+01-05-2025,Bills,Electricity Bill,Debit Card,1336
+11-05-2025,Education,Movie Ticket,Debit Card,4904
+19-01-2025,Entertainment,Movie Ticket,Credit Card,2540
+09-01-2025,Shopping,Groceries,UPI,4602
+12-11-2025,Transport,Groceries,UPI,745
+29-05-2025,Education,Fuel,Credit Card,1938
+21-07-2025,Travel,Movie Ticket,Credit Card,4277
+24-01-2025,Transport,Online Course,Net Banking,1275
+17-04-2025,Education,Groceries,Net Banking,3885
+07-04-2025,Shopping,Amazon Purchase,UPI,2703
+28-08-2025,Shopping,Amazon Purchase,UPI,3424
+24-11-2025,Education,Online Course,UPI,4253
+16-10-2025,Healthcare,Medical Checkup,Credit Card,892
+20-06-2025,Healthcare,Train Ticket,Net Banking,2338
+15-08-2025,Entertainment,Mobile Recharge,Credit Card,1056
+08-12-2025,Shopping,Medical Checkup,Net Banking,1736
+30-04-2025,Entertainment,Movie Ticket,Credit Card,3487
+23-06-2025,Shopping,Mobile Recharge,UPI,3082
+28-05-2025,Bills,Mobile Recharge,Net Banking,222
+23-05-2025,Shopping,Medical Checkup,Credit Card,1437
+14-01-2025,Education,Fuel,Net Banking,3595
+29-09-2025,Healthcare,Amazon Purchase,UPI,1049
+01-09-2025,Travel,Online Course,Debit Card,2316
+25-06-2025,Transport,Medical Checkup,UPI,3129
+16-11-2025,Travel,Groceries,Net Banking,2503
+21-01-2025,Travel,Medical Checkup,Debit Card,3943
+22-01-2025,Bills,Medical Checkup,Debit Card,4675
+19-11-2025,Healthcare,Groceries,Credit Card,2122
+30-06-2025,Entertainment,Movie Ticket,UPI,1661
+05-02-2025,Bills,Fuel,UPI,501
+19-09-2025,Transport,Medical Checkup,UPI,4368
+09-06-2025,Shopping,Amazon Purchase,UPI,3881
+23-05-2025,Transport,Medical Checkup,UPI,4609
+13-04-2025,Shopping,Mobile Recharge,Net Banking,485
+14-01-2025,Bills,Train Ticket,Net Banking,3229
+03-02-2025,Bills,Amazon Purchase,Net Banking,285
+21-04-2025,Entertainment,Online Course,Debit Card,354
+01-11-2025,Travel,Movie Ticket,Debit Card,1653
+09-09-2025,Healthcare,Groceries,Debit Card,4217
+13-02-2025,Education,Medical Checkup,Net Banking,1567
+04-11-2025,Transport,Mobile Recharge,UPI,2422
+14-02-2025,Healthcare,Electricity Bill,Credit Card,2523
+20-11-2025,Transport,Electricity Bill,UPI,4067
+23-07-2025,Education,Electricity Bill,Credit Card,194
+21-05-2025,Bills,Movie Ticket,Credit Card,61
+23-03-2025,Healthcare,Fuel,Net Banking,1520
+22-11-2025,Shopping,Electricity Bill,UPI,2038
+02-12-2025,Bills,Groceries,Credit Card,338
+20-03-2025,Bills,Fuel,UPI,4722
+05-10-2025,Shopping,Amazon Purchase,Debit Card,2315
+19-10-2025,Bills,Movie Ticket,Debit Card,4929
+24-02-2025,Transport,Movie Ticket,Credit Card,4027
+01-12-2025,Education,Mobile Recharge,Net Banking,3726
+24-12-2025,Travel,Mobile Recharge,Credit Card,597
+13-07-2025,Bills,Mobile Recharge,Net Banking,3654
+24-10-2025,Healthcare,Fuel,Debit Card,3492
+04-01-2025,Bills,Electricity Bill,Debit Card,4279
+28-01-2025,Healthcare,Electricity Bill,Credit Card,1788
+09-02-2025,Transport,Electricity Bill,UPI,538
+25-07-2025,Transport,Fuel,Net Banking,4447
+04-11-2025,Transport,Fuel,UPI,4466
+10-10-2025,Entertainment,Mobile Recharge,Credit Card,387
+09-03-2025,Bills,Mobile Recharge,UPI,3210
+05-11-2025,Education,Medical Checkup,UPI,1103
+28-09-2025,Travel,Online Course,Net Banking,131
+25-02-2025,Shopping,Train Ticket,Debit Card,161
+16-10-2025,Bills,Medical Checkup,Debit Card,4877
+30-10-2025,Transport,Fuel,Credit Card,1930
+19-05-2025,Travel,Online Course,Debit Card,2902
+24-09-2025,Travel,Amazon Purchase,Net Banking,919
+07-05-2025,Transport,Online Course,Debit Card,494
+23-08-2025,Bills,Mobile Recharge,UPI,2194
+11-06-2025,Shopping,Mobile Recharge,Debit Card,51
+12-10-2025,Transport,Movie Ticket,Net Banking,1371
+14-12-2025,Education,Online Course,Credit Card,4161
+19-10-2025,Transport,Mobile Recharge,Debit Card,2290
+02-07-2025,Travel,Movie Ticket,UPI,4684
+04-12-2025,Transport,Electricity Bill,Credit Card,3231
+18-11-2025,Transport,Train Ticket,Credit Card,3417
+30-11-2025,Transport,Train Ticket,Credit Card,2561
+27-02-2025,Education,Train Ticket,UPI,3231
+12-12-2025,Education,Mobile Recharge,Debit Card,1699
+10-05-2025,Entertainment,Medical Checkup,UPI,3865
+28-08-2025,Transport,Electricity Bill,Net Banking,4302
+13-06-2025,Shopping,Movie Ticket,UPI,3162
+20-11-2025,Bills,Movie Ticket,UPI,1940
+21-07-2025,Travel,Movie Ticket,UPI,788
+10-12-2025,Transport,Movie Ticket,Credit Card,2101
+16-06-2025,Entertainment,Movie Ticket,Debit Card,2750
+08-05-2025,Education,Fuel,Net Banking,2143
+21-11-2025,Education,Movie Ticket,Debit Card,1498
+29-05-2025,Entertainment,Movie Ticket,Net Banking,2176
+25-03-2025,Education,Train Ticket,Net Banking,1664
+05-02-2025,Bills,Amazon Purchase,Debit Card,2570
+07-07-2025,Bills,Online Course,Debit Card,4382
+02-02-2025,Shopping,Mobile Recharge,UPI,2334
+29-11-2025,Healthcare,Online Course,UPI,2904
+18-11-2025,Education,Online Course,Net Banking,994
+03-02-2025,Shopping,Train Ticket,UPI,3925
+24-05-2025,Bills,Mobile Recharge,UPI,2885
+14-02-2025,Healthcare,Fuel,Debit Card,1121
+01-07-2025,Bills,Medical Checkup,UPI,4223
+22-10-2025,Shopping,Fuel,Debit Card,1925
+17-04-2025,Travel,Amazon Purchase,Debit Card,3929
+14-08-2025,Transport,Online Course,Credit Card,1877
+22-02-2025,Bills,Mobile Recharge,Net Banking,1261
+22-08-2025,Travel,Mobile Recharge,Net Banking,147
+12-10-2025,Bills,Train Ticket,Net Banking,3890
+02-03-2025,Transport,Train Ticket,Debit Card,2541
+22-12-2025,Healthcare,Electricity Bill,UPI,2058
+13-11-2025,Entertainment,Online Course,Credit Card,4112
+29-07-2025,Education,Fuel,UPI,4230
+09-09-2025,Healthcare,Movie Ticket,Net Banking,4120
+10-12-2025,Shopping,Medical Checkup,Debit Card,3246
+06-11-2025,Bills,Train Ticket,Debit Card,3373
+24-01-2025,Bills,Fuel,Net Banking,561
+30-08-2025,Healthcare,Movie Ticket,Debit Card,4533
+14-11-2025,Transport,Groceries,Debit Card,4614
+08-01-2025,Shopping,Fuel,Credit Card,2534
+12-07-2025,Bills,Fuel,Debit Card,4681
+30-09-2025,Travel,Movie Ticket,Debit Card,3021
+12-10-2025,Healthcare,Online Course,UPI,2069
+06-03-2025,Shopping,Movie Ticket,Net Banking,3996
+26-07-2025,Education,Groceries,Net Banking,3507
+07-09-2025,Healthcare,Medical Checkup,Debit Card,836
+24-06-2025,Healthcare,Electricity Bill,Credit Card,1636
+24-12-2025,Bills,Mobile Recharge,UPI,1853
+29-10-2025,Entertainment,Movie Ticket,Debit Card,3397
+07-06-2025,Healthcare,Movie Ticket,Credit Card,3185
+15-05-2025,Entertainment,Groceries,Credit Card,4994
+22-09-2025,Transport,Electricity Bill,Credit Card,1766
+09-12-2025,Transport,Fuel,Credit Card,1448
+26-07-2025,Healthcare,Electricity Bill,UPI,2590
+19-07-2025,Healthcare,Mobile Recharge,Net Banking,1200
+09-05-2025,Bills,Train Ticket,Credit Card,2478
+22-09-2025,Entertainment,Groceries,Net Banking,2596
+27-11-2025,Education,Groceries,Net Banking,3106
+13-02-2025,Bills,Train Ticket,UPI,4201
+22-09-2025,Transport,Electricity Bill,UPI,3318
+29-08-2025,Bills,Mobile Recharge,Credit Card,3291
+31-05-2025,Healthcare,Groceries,Credit Card,1211
+13-10-2025,Shopping,Train Ticket,UPI,2485
+18-02-2025,Travel,Electricity Bill,Debit Card,3038
+22-07-2025,Travel,Groceries,Net Banking,1168
+03-05-2025,Shopping,Electricity Bill,Credit Card,2593
+26-08-2025,Education,Mobile Recharge,UPI,4015
+24-01-2025,Education,Mobile Recharge,Debit Card,4845
+14-07-2025,Travel,Train Ticket,Net Banking,1003
+04-08-2025,Entertainment,Amazon Purchase,Credit Card,569
+03-05-2025,Bills,Amazon Purchase,Net Banking,3204
+19-03-2025,Healthcare,Groceries,Net Banking,2860
+22-03-2025,Healthcare,Electricity Bill,Credit Card,2103
+31-05-2025,Healthcare,Fuel,Credit Card,295
+12-04-2025,Healthcare,Movie Ticket,UPI,3577
+04-10-2025,Travel,Electricity Bill,Credit Card,4475
+15-03-2025,Transport,Amazon Purchase,UPI,1790
+27-03-2025,Bills,Online Course,Credit Card,4612
+26-04-2025,Education,Amazon Purchase,Debit Card,2072
+13-11-2025,Entertainment,Train Ticket,Net Banking,4439
+18-09-2025,Entertainment,Medical Checkup,Net Banking,115
+02-11-2025,Shopping,Electricity Bill,Net Banking,1127
+11-07-2025,Shopping,Online Course,Debit Card,4273
+20-06-2025,Travel,Online Course,Credit Card,4742
+15-08-2025,Healthcare,Mobile Recharge,Credit Card,869
+27-09-2025,Healthcare,Train Ticket,Net Banking,4988
+14-04-2025,Education,Mobile Recharge,Debit Card,1287
+06-04-2025,Travel,Movie Ticket,Debit Card,1069
+06-08-2025,Healthcare,Fuel,Net Banking,3918
+31-10-2025,Education,Movie Ticket,Net Banking,3890
+13-08-2025,Transport,Train Ticket,UPI,2304
+30-12-2025,Travel,Mobile Recharge,UPI,215
+03-08-2025,Bills,Amazon Purchase,Credit Card,3742
+10-04-2025,Healthcare,Fuel,UPI,3324
+03-10-2025,Bills,Mobile Recharge,Credit Card,4050
+17-12-2025,Shopping,Groceries,Debit Card,4064
+07-07-2025,Shopping,Mobile Recharge,Net Banking,4048
+19-08-2025,Shopping,Train Ticket,UPI,3755
+24-12-2025,Healthcare,Medical Checkup,Credit Card,1068
+13-10-2025,Travel,Amazon Purchase,Net Banking,4723
+21-03-2025,Transport,Mobile Recharge,Net Banking,3926
+08-04-2025,Travel,Movie Ticket,Net Banking,3799
+10-09-2025,Bills,Fuel,Debit Card,2196
+31-05-2025,Entertainment,Movie Ticket,Net Banking,683
+07-09-2025,Travel,Amazon Purchase,Credit Card,93
+25-12-2025,Education,Online Course,UPI,4629
+30-09-2025,Travel,Movie Ticket,Debit Card,3728
+30-05-2025,Education,Train Ticket,Credit Card,4326
+19-06-2025,Education,Train Ticket,Net Banking,272
+30-11-2025,Shopping,Electricity Bill,Credit Card,770
+08-01-2025,Bills,Electricity Bill,Net Banking,3413
+15-06-2025,Entertainment,Amazon Purchase,Debit Card,1159
+29-05-2025,Shopping,Electricity Bill,Net Banking,3163
+28-08-2025,Education,Groceries,Net Banking,1835
+03-04-2025,Bills,Mobile Recharge,UPI,841
+07-02-2025,Entertainment,Electricity Bill,UPI,4344
+07-08-2025,Bills,Fuel,Credit Card,4394
+04-09-2025,Healthcare,Medical Checkup,Net Banking,1044
+11-02-2025,Transport,Movie Ticket,Debit Card,4019
+27-10-2025,Bills,Amazon Purchase,Credit Card,1567
+25-07-2025,Travel,Medical Checkup,UPI,3718
+06-12-2025,Bills,Train Ticket,Net Banking,4386
+15-07-2025,Healthcare,Mobile Recharge,Credit Card,2531
+24-03-2025,Transport,Online Course,Net Banking,2131
+22-09-2025,Shopping,Groceries,Credit Card,3542
+12-10-2025,Transport,Medical Checkup,Credit Card,1609
+18-04-2025,Entertainment,Groceries,UPI,1338
+18-08-2025,Transport,Movie Ticket,Credit Card,1156
+08-02-2025,Travel,Amazon Purchase,Debit Card,3744
+08-02-2025,Travel,Movie Ticket,Debit Card,2810
+01-11-2025,Shopping,Movie Ticket,Credit Card,1366
+13-10-2025,Entertainment,Medical Checkup,UPI,4399
+12-04-2025,Entertainment,Mobile Recharge,Credit Card,2678
+20-09-2025,Bills,Mobile Recharge,UPI,2003
+07-05-2025,Travel,Fuel,Credit Card,1127
+24-11-2025,Entertainment,Train Ticket,Net Banking,4821
+27-07-2025,Transport,Amazon Purchase,Net Banking,4372
+29-12-2025,Transport,Online Course,UPI,1326
+04-02-2025,Travel,Online Course,Credit Card,4533
+01-12-2025,Entertainment,Amazon Purchase,UPI,4942
+07-07-2025,Entertainment,Groceries,UPI,2202
+02-10-2025,Healthcare,Amazon Purchase,UPI,1840
+31-12-2025,Education,Electricity Bill,Net Banking,245
+09-01-2025,Healthcare,Fuel,Debit Card,828
+25-07-2025,Education,Mobile Recharge,Credit Card,3412
+03-06-2025,Healthcare,Amazon Purchase,Net Banking,514
+18-06-2025,Healthcare,Amazon Purchase,Credit Card,1659
+01-06-2025,Transport,Train Ticket,Credit Card,1966
+10-01-2025,Shopping,Online Course,UPI,423
+28-05-2025,Bills,Groceries,UPI,3290
+11-06-2025,Travel,Train Ticket,Net Banking,3982
+22-04-2025,Education,Groceries,Net Banking,2887
+13-04-2025,Entertainment,Movie Ticket,Net Banking,2770
+26-09-2025,Bills,Fuel,Debit Card,4748
+15-10-2025,Bills,Online Course,Debit Card,1941
+16-03-2025,Entertainment,Online Course,Credit Card,558
+24-03-2025,Transport,Amazon Purchase,Credit Card,989
+18-12-2025,Healthcare,Online Course,UPI,3647
+24-10-2025,Healthcare,Fuel,Credit Card,3786
+04-06-2025,Travel,Electricity Bill,Debit Card,3132
+27-12-2025,Transport,Online Course,Credit Card,1028
+17-04-2025,Education,Train Ticket,Net Banking,4864
+14-02-2025,Education,Medical Checkup,Credit Card,1970
+06-11-2025,Travel,Groceries,Credit Card,315
+12-11-2025,Shopping,Movie Ticket,Debit Card,509
+25-12-2025,Education,Electricity Bill,Credit Card,2760
+13-09-2025,Entertainment,Mobile Recharge,Net Banking,4482
+14-12-2025,Travel,Train Ticket,Credit Card,4291
+14-07-2025,Shopping,Electricity Bill,Debit Card,866
+21-12-2025,Bills,Train Ticket,Credit Card,441
+24-03-2025,Healthcare,Medical Checkup,Credit Card,3052
+22-01-2025,Transport,Groceries,Debit Card,2766
+05-07-2025,Entertainment,Groceries,Net Banking,928
+14-10-2025,Education,Amazon Purchase,UPI,553
+28-08-2025,Shopping,Amazon Purchase,UPI,2004
+10-11-2025,Bills,Train Ticket,UPI,2364
+02-11-2025,Entertainment,Amazon Purchase,Credit Card,1638
+30-08-2025,Bills,Movie Ticket,Net Banking,2269
+21-01-2025,Travel,Electricity Bill,UPI,3788
+07-03-2025,Bills,Online Course,UPI,3950
+22-01-2025,Bills,Amazon Purchase,Net Banking,2104
+16-12-2025,Transport,Fuel,Net Banking,4454
+04-09-2025,Bills,Train Ticket,Credit Card,713
+31-12-2025,Bills,Mobile Recharge,Credit Card,3947
+28-05-2025,Healthcare,Movie Ticket,Credit Card,1848
+09-10-2025,Travel,Fuel,Net Banking,180
+11-04-2025,Travel,Fuel,Net Banking,2547
+15-09-2025,Shopping,Train Ticket,Debit Card,1839
+02-04-2025,Healthcare,Groceries,UPI,4281
+07-11-2025,Shopping,Medical Checkup,Credit Card,2167
+17-09-2025,Travel,Amazon Purchase,Net Banking,1028
+14-08-2025,Healthcare,Online Course,Net Banking,3958
+26-10-2025,Healthcare,Mobile Recharge,UPI,1625
+21-09-2025,Transport,Train Ticket,UPI,171
+01-10-2025,Bills,Movie Ticket,UPI,4890
+05-10-2025,Transport,Movie Ticket,Debit Card,3764
+19-02-2025,Entertainment,Amazon Purchase,UPI,665
+31-01-2025,Travel,Groceries,Debit Card,3751
+02-03-2025,Education,Movie Ticket,UPI,1897
+09-11-2025,Shopping,Mobile Recharge,Debit Card,2959
+26-03-2025,Bills,Groceries,Debit Card,246
+14-06-2025,Education,Mobile Recharge,UPI,2129
+18-01-2025,Healthcare,Amazon Purchase,Net Banking,1297
+13-08-2025,Travel,Train Ticket,Debit Card,4139
+07-08-2025,Entertainment,Movie Ticket,Credit Card,4649
+15-01-2025,Bills,Online Course,Net Banking,4488
+26-05-2025,Bills,Fuel,Debit Card,3275
+28-03-2025,Travel,Groceries,Debit Card,4684
+20-11-2025,Travel,Train Ticket,UPI,3562
+29-11-2025,Bills,Fuel,Debit Card,2304
+11-12-2025,Bills,Train Ticket,Debit Card,4290
+08-03-2025,Healthcare,Amazon Purchase,Credit Card,1787
+09-11-2025,Healthcare,Amazon Purchase,UPI,2786
+14-05-2025,Entertainment,Online Course,UPI,2216
+22-03-2025,Shopping,Fuel,Credit Card,3647
+09-03-2025,Transport,Mobile Recharge,Credit Card,3665
+05-08-2025,Travel,Movie Ticket,Net Banking,1725
+29-07-2025,Entertainment,Electricity Bill,UPI,737
+28-11-2025,Transport,Amazon Purchase,UPI,1409
+07-07-2025,Entertainment,Amazon Purchase,UPI,2415
+13-12-2025,Entertainment,Mobile Recharge,UPI,1818
+24-06-2025,Travel,Online Course,Credit Card,4749
+26-05-2025,Transport,Mobile Recharge,Net Banking,2501
+03-07-2025,Education,Medical Checkup,UPI,2552
+02-04-2025,Healthcare,Movie Ticket,Debit Card,1358
+04-12-2025,Entertainment,Electricity Bill,Credit Card,3736
+16-08-2025,Education,Train Ticket,Net Banking,2239
+19-04-2025,Healthcare,Mobile Recharge,Debit Card,1287
+31-03-2025,Shopping,Amazon Purchase,Credit Card,1447
+22-01-2025,Healthcare,Online Course,UPI,2654
+22-02-2025,Travel,Train Ticket,UPI,2809
+22-11-2025,Entertainment,Mobile Recharge,Net Banking,4693
+29-04-2025,Education,Amazon Purchase,Credit Card,3287
+17-12-2025,Shopping,Groceries,Debit Card,1594
+21-06-2025,Transport,Online Course,Debit Card,1279
+16-05-2025,Bills,Mobile Recharge,Net Banking,553
+12-12-2025,Education,Online Course,UPI,1763
+20-07-2025,Healthcare,Groceries,Debit Card,1424
+19-08-2025,Healthcare,Mobile Recharge,Net Banking,3596
+12-06-2025,Transport,Mobile Recharge,Debit Card,1756
+14-05-2025,Entertainment,Train Ticket,UPI,59
+13-09-2025,Transport,Amazon Purchase,Credit Card,774
+11-01-2025,Education,Electricity Bill,Credit Card,225
+16-03-2025,Travel,Electricity Bill,Debit Card,1820
+29-07-2025,Shopping,Groceries,UPI,767
+30-08-2025,Entertainment,Medical Checkup,Credit Card,4156
+27-06-2025,Transport,Movie Ticket,Debit Card,2420
+21-02-2025,Bills,Electricity Bill,Credit Card,957
+03-07-2025,Bills,Movie Ticket,Debit Card,3173
+04-09-2025,Transport,Mobile Recharge,UPI,1625
+05-08-2025,Entertainment,Movie Ticket,Net Banking,538
+30-05-2025,Healthcare,Groceries,Net Banking,3678
+26-06-2025,Travel,Amazon Purchase,Debit Card,1797
+16-11-2025,Healthcare,Fuel,Debit Card,4122
+12-04-2025,Travel,Groceries,Debit Card,2791
+09-05-2025,Transport,Online Course,UPI,2781
+10-12-2025,Transport,Medical Checkup,Debit Card,1000
+07-06-2025,Travel,Amazon Purchase,UPI,862
+25-08-2025,Travel,Fuel,UPI,975
+31-03-2025,Shopping,Train Ticket,Credit Card,4178
+10-05-2025,Shopping,Train Ticket,Net Banking,1152
+07-12-2025,Travel,Fuel,UPI,2100
+17-01-2025,Bills,Mobile Recharge,UPI,1802
+04-05-2025,Bills,Fuel,UPI,3460
+19-06-2025,Shopping,Medical Checkup,Net Banking,862
+13-01-2025,Transport,Electricity Bill,Net Banking,3942
+23-05-2025,Entertainment,Amazon Purchase,Net Banking,58
+08-02-2025,Entertainment,Electricity Bill,Debit Card,3302
+14-09-2025,Shopping,Fuel,UPI,468
+06-05-2025,Shopping,Amazon Purchase,Credit Card,3892
+06-10-2025,Bills,Medical Checkup,Debit Card,2502
+04-10-2025,Shopping,Electricity Bill,Debit Card,2397
+07-12-2025,Education,Fuel,Credit Card,1803
+24-07-2025,Education,Electricity Bill,Net Banking,2783
+21-03-2025,Travel,Electricity Bill,Credit Card,3504
+09-01-2025,Transport,Movie Ticket,UPI,491
+14-05-2025,Travel,Train Ticket,Net Banking,4245
+16-11-2025,Healthcare,Movie Ticket,Credit Card,3003
+15-11-2025,Travel,Amazon Purchase,Credit Card,1518
+24-02-2025,Transport,Groceries,Debit Card,4641
+15-10-2025,Transport,Amazon Purchase,Net Banking,2018
+09-08-2025,Healthcare,Electricity Bill,Debit Card,2997
+26-03-2025,Transport,Medical Checkup,Debit Card,1946
+06-03-2025,Bills,Mobile Recharge,UPI,2072
+02-01-2025,Healthcare,Train Ticket,UPI,2516
+28-01-2025,Transport,Movie Ticket,Net Banking,2917
+06-10-2025,Shopping,Train Ticket,Debit Card,1434
+13-06-2025,Travel,Medical Checkup,Credit Card,3563
+19-07-2025,Travel,Electricity Bill,Net Banking,1326
+11-10-2025,Entertainment,Mobile Recharge,Net Banking,1606
+24-09-2025,Transport,Electricity Bill,Net Banking,3111
+20-05-2025,Healthcare,Train Ticket,Debit Card,3928
+14-08-2025,Transport,Fuel,Debit Card,3028
+29-09-2025,Healthcare,Electricity Bill,Credit Card,4718
+10-04-2025,Entertainment,Train Ticket,UPI,3364
+25-06-2025,Education,Groceries,UPI,3128
+23-04-2025,Healthcare,Online Course,UPI,3644
+15-03-2025,Transport,Movie Ticket,UPI,4377
+22-09-2025,Bills,Mobile Recharge,Debit Card,4596
+07-08-2025,Transport,Movie Ticket,Credit Card,3876
+11-01-2025,Shopping,Fuel,Net Banking,4014
+15-06-2025,Transport,Groceries,Credit Card,4620
+14-03-2025,Bills,Amazon Purchase,Debit Card,4478
+18-06-2025,Entertainment,Mobile Recharge,Debit Card,574
+30-03-2025,Shopping,Medical Checkup,Credit Card,4616
+08-01-2025,Travel,Medical Checkup,Net Banking,3538
+03-06-2025,Entertainment,Fuel,Debit Card,1287
+04-06-2025,Healthcare,Mobile Recharge,Net Banking,4142
+22-05-2025,Transport,Amazon Purchase,UPI,1619
+15-01-2025,Bills,Fuel,Debit Card,1387
+17-10-2025,Entertainment,Electricity Bill,Credit Card,477
+30-06-2025,Travel,Train Ticket,Credit Card,3734
+08-02-2025,Education,Groceries,UPI,3981
+22-11-2025,Entertainment,Online Course,UPI,58
+25-09-2025,Entertainment,Fuel,Debit Card,2692
+05-08-2025,Healthcare,Movie Ticket,Credit Card,3937
+03-09-2025,Shopping,Amazon Purchase,Credit Card,2275
+08-02-2025,Entertainment,Medical Checkup,Credit Card,3762
+02-04-2025,Education,Amazon Purchase,UPI,2915
+28-01-2025,Bills,Medical Checkup,Net Banking,3814
+22-09-2025,Bills,Mobile Recharge,Credit Card,3107
+28-06-2025,Education,Online Course,Debit Card,1172
+11-10-2025,Bills,Groceries,UPI,758
+29-06-2025,Shopping,Mobile Recharge,Credit Card,1929
+12-03-2025,Entertainment,Train Ticket,Net Banking,425
+09-07-2025,Education,Mobile Recharge,Debit Card,3239
+27-03-2025,Entertainment,Medical Checkup,Net Banking,2080
+06-08-2025,Entertainment,Mobile Recharge,Debit Card,2613
+06-07-2025,Entertainment,Online Course,Credit Card,2507
+29-12-2025,Entertainment,Movie Ticket,Credit Card,3053
+16-05-2025,Transport,Mobile Recharge,Debit Card,2053
+20-08-2025,Bills,Medical Checkup,Credit Card,3668
+30-01-2025,Entertainment,Amazon Purchase,Debit Card,798
+30-11-2025,Shopping,Amazon Purchase,Debit Card,1290
+06-05-2025,Healthcare,Train Ticket,Credit Card,4112
+01-11-2025,Education,Fuel,Credit Card,154
+14-12-2025,Education,Amazon Purchase,Credit Card,4321
+13-08-2025,Education,Electricity Bill,UPI,3191
+16-07-2025,Entertainment,Medical Checkup,Debit Card,537
+09-03-2025,Bills,Movie Ticket,Credit Card,4266
+19-10-2025,Entertainment,Online Course,Debit Card,1088
+09-03-2025,Healthcare,Amazon Purchase,UPI,1939
+25-08-2025,Shopping,Medical Checkup,Net Banking,3783
+15-06-2025,Shopping,Train Ticket,Debit Card,2103
+10-02-2025,Education,Amazon Purchase,Debit Card,4887
+27-01-2025,Healthcare,Movie Ticket,UPI,2863
+02-01-2025,Healthcare,Mobile Recharge,Debit Card,4788
+11-06-2025,Healthcare,Fuel,Net Banking,767
+23-08-2025,Shopping,Train Ticket,UPI,4321
+01-01-2025,Entertainment,Mobile Recharge,UPI,4338
+26-02-2025,Shopping,Groceries,Credit Card,1822
+07-07-2025,Travel,Medical Checkup,UPI,2451
+17-02-2025,Bills,Fuel,Credit Card,2168
+05-02-2025,Travel,Groceries,Net Banking,4664
+11-09-2025,Healthcare,Train Ticket,Debit Card,876
+09-05-2025,Education,Medical Checkup,Net Banking,4523
+26-03-2025,Entertainment,Fuel,Credit Card,1540
+17-04-2025,Transport,Mobile Recharge,Credit Card,291
+03-05-2025,Transport,Fuel,Debit Card,2435
+20-12-2025,Bills,Mobile Recharge,Net Banking,833
+25-09-2025,Entertainment,Amazon Purchase,Debit Card,3175
+11-12-2025,Bills,Amazon Purchase,UPI,126
+30-03-2025,Shopping,Medical Checkup,Credit Card,4341
+29-12-2025,Shopping,Fuel,Credit Card,4070
+04-01-2025,Transport,Online Course,Credit Card,3969
+01-10-2025,Bills,Electricity Bill,Debit Card,1479
+10-08-2025,Education,Mobile Recharge,Net Banking,937
+27-02-2025,Healthcare,Amazon Purchase,UPI,53
+19-09-2025,Entertainment,Train Ticket,Debit Card,1694
+16-11-2025,Transport,Online Course,Credit Card,1898
+25-06-2025,Transport,Groceries,Debit Card,3263
+02-02-2025,Transport,Electricity Bill,Net Banking,2254
+03-10-2025,Entertainment,Medical Checkup,UPI,949
+05-05-2025,Travel,Groceries,UPI,2336
+05-11-2025,Shopping,Amazon Purchase,UPI,1072
+23-04-2025,Travel,Amazon Purchase,UPI,3616
+18-06-2025,Travel,Amazon Purchase,Credit Card,560
+03-09-2025,Education,Electricity Bill,Debit Card,1667
+13-12-2025,Transport,Electricity Bill,UPI,344
+04-07-2025,Entertainment,Movie Ticket,Credit Card,3853
+27-01-2025,Transport,Mobile Recharge,Credit Card,2004
+16-10-2025,Education,Mobile Recharge,Debit Card,2324
+17-11-2025,Healthcare,Electricity Bill,UPI,2639
+17-01-2025,Shopping,Train Ticket,Net Banking,3343
+03-06-2025,Transport,Online Course,Credit Card,4232
+20-02-2025,Travel,Medical Checkup,Credit Card,2337
+22-05-2025,Education,Fuel,UPI,526
+29-09-2025,Transport,Movie Ticket,Credit Card,3203
+22-11-2025,Education,Medical Checkup,Debit Card,4672
+02-02-2025,Healthcare,Train Ticket,Credit Card,3454
+25-12-2025,Entertainment,Fuel,Credit Card,3967
+17-11-2025,Entertainment,Amazon Purchase,Credit Card,1654
+18-08-2025,Bills,Movie Ticket,Net Banking,1470
+31-07-2025,Education,Train Ticket,UPI,700
+29-03-2025,Transport,Train Ticket,Credit Card,3569
+15-06-2025,Education,Amazon Purchase,Credit Card,1525
+23-12-2025,Education,Mobile Recharge,UPI,1926
+31-12-2025,Healthcare,Train Ticket,UPI,2869
+24-05-2025,Bills,Movie Ticket,Net Banking,4392
+18-09-2025,Transport,Groceries,Credit Card,4141
+13-03-2025,Transport,Amazon Purchase,Credit Card,2456
+01-05-2025,Travel,Movie Ticket,Net Banking,4763
+25-02-2025,Education,Amazon Purchase,Credit Card,1578
+01-12-2025,Shopping,Electricity Bill,UPI,4449
+31-05-2025,Entertainment,Amazon Purchase,Credit Card,4451
+17-07-2025,Entertainment,Medical Checkup,Debit Card,260
+17-10-2025,Entertainment,Amazon Purchase,Debit Card,1780
+05-05-2025,Bills,Groceries,Net Banking,2239
+25-10-2025,Shopping,Online Course,UPI,1671
+25-03-2025,Bills,Medical Checkup,UPI,1574
+23-06-2025,Transport,Online Course,Net Banking,1273
+24-07-2025,Entertainment,Mobile Recharge,Debit Card,4687
+12-02-2025,Shopping,Movie Ticket,Net Banking,3521
+04-07-2025,Education,Groceries,UPI,349
+29-10-2025,Bills,Medical Checkup,Debit Card,4902
+13-12-2025,Healthcare,Train Ticket,UPI,455
+02-04-2025,Entertainment,Medical Checkup,Credit Card,173
+20-02-2025,Shopping,Amazon Purchase,Credit Card,4246
+06-10-2025,Transport,Fuel,Debit Card,1720
+15-06-2025,Healthcare,Electricity Bill,Credit Card,4311
+02-05-2025,Transport,Medical Checkup,Net Banking,3169
+12-12-2025,Shopping,Medical Checkup,Debit Card,509
+01-08-2025,Shopping,Amazon Purchase,Credit Card,1260
+10-08-2025,Education,Electricity Bill,Debit Card,3995
+07-11-2025,Education,Groceries,Debit Card,3116
+09-06-2025,Healthcare,Groceries,Net Banking,4929
+10-04-2025,Shopping,Train Ticket,UPI,1750
+20-10-2025,Transport,Online Course,Credit Card,2375
+19-02-2025,Entertainment,Medical Checkup,UPI,2866
+09-09-2025,Education,Online Course,Credit Card,3138
+08-02-2025,Education,Medical Checkup,Debit Card,4111
+14-10-2025,Transport,Train Ticket,Debit Card,1433
+16-01-2025,Travel,Medical Checkup,Net Banking,2431
+06-07-2025,Travel,Groceries,Debit Card,2041
+17-06-2025,Travel,Groceries,Debit Card,2441
+14-06-2025,Entertainment,Amazon Purchase,UPI,2343
+04-12-2025,Shopping,Fuel,Credit Card,4943
+25-10-2025,Education,Movie Ticket,Net Banking,3290
+24-11-2025,Shopping,Mobile Recharge,Debit Card,493
+01-11-2025,Travel,Amazon Purchase,Net Banking,1839
+28-10-2025,Travel,Medical Checkup,Debit Card,4046
+08-04-2025,Travel,Electricity Bill,Credit Card,2740
+28-06-2025,Travel,Train Ticket,UPI,4634
+24-05-2025,Shopping,Fuel,Debit Card,4663
+06-12-2025,Entertainment,Mobile Recharge,UPI,2221
+06-03-2025,Transport,Groceries,UPI,1045
+29-05-2025,Education,Train Ticket,Net Banking,3198
+05-07-2025,Entertainment,Movie Ticket,Credit Card,2606
+12-04-2025,Entertainment,Online Course,Net Banking,664
+19-08-2025,Entertainment,Groceries,UPI,645
+24-09-2025,Education,Groceries,UPI,1517
+04-04-2025,Shopping,Mobile Recharge,Credit Card,4289
+15-09-2025,Travel,Electricity Bill,Credit Card,280
+23-11-2025,Education,Medical Checkup,Net Banking,3984
+17-07-2025,Transport,Mobile Recharge,UPI,3751
+09-06-2025,Entertainment,Groceries,Net Banking,1822
+23-01-2025,Bills,Train Ticket,Debit Card,3937
+16-01-2025,Bills,Amazon Purchase,UPI,3069
+31-03-2025,Education,Train Ticket,Credit Card,895
+24-10-2025,Bills,Online Course,Net Banking,3062
+23-08-2025,Transport,Train Ticket,Debit Card,138
+07-11-2025,Education,Movie Ticket,Debit Card,4917
+26-02-2025,Shopping,Amazon Purchase,UPI,4580
+26-08-2025,Transport,Amazon Purchase,UPI,747
+30-11-2025,Travel,Medical Checkup,Debit Card,2393
+13-12-2025,Entertainment,Movie Ticket,Net Banking,3788
+24-04-2025,Healthcare,Groceries,UPI,2913
+21-06-2025,Entertainment,Mobile Recharge,Net Banking,2278
+14-06-2025,Transport,Medical Checkup,Net Banking,723
+12-03-2025,Shopping,Medical Checkup,Net Banking,4156
+24-07-2025,Healthcare,Electricity Bill,Credit Card,1696
+26-01-2025,Shopping,Medical Checkup,Credit Card,1335
+23-02-2025,Travel,Train Ticket,Credit Card,3506
+29-04-2025,Healthcare,Fuel,Net Banking,368
+24-11-2025,Education,Mobile Recharge,Credit Card,2539
+13-10-2025,Education,Train Ticket,Debit Card,221
+02-09-2025,Transport,Medical Checkup,UPI,1353
+03-11-2025,Healthcare,Amazon Purchase,Credit Card,2089
+10-01-2025,Shopping,Groceries,Net Banking,2012
+01-01-2025,Healthcare,Online Course,Credit Card,3762
+27-02-2025,Travel,Fuel,UPI,1528
+24-02-2025,Education,Movie Ticket,Debit Card,1589
+11-03-2025,Entertainment,Online Course,UPI,1930
+09-12-2025,Entertainment,Groceries,Debit Card,4529
+04-03-2025,Healthcare,Online Course,Credit Card,4204
+19-12-2025,Shopping,Amazon Purchase,Net Banking,1659
+06-04-2025,Transport,Fuel,UPI,1076
+24-08-2025,Travel,Electricity Bill,Debit Card,3953
+30-11-2025,Bills,Fuel,UPI,4706
+06-12-2025,Education,Medical Checkup,Debit Card,224
+24-01-2025,Transport,Groceries,Debit Card,3013
+10-04-2025,Travel,Amazon Purchase,Credit Card,4977
+28-08-2025,Bills,Mobile Recharge,UPI,1941
+09-07-2025,Bills,Mobile Recharge,UPI,935
+11-12-2025,Education,Fuel,UPI,386
+05-08-2025,Transport,Mobile Recharge,UPI,999
+19-06-2025,Transport,Amazon Purchase,Debit Card,3115
+06-03-2025,Healthcare,Movie Ticket,Net Banking,257
+10-08-2025,Shopping,Movie Ticket,Credit Card,57
+04-10-2025,Travel,Medical Checkup,Net Banking,697
+22-02-2025,Education,Mobile Recharge,Credit Card,4940
+17-09-2025,Entertainment,Electricity Bill,UPI,536
+12-03-2025,Bills,Mobile Recharge,Debit Card,4926
+29-04-2025,Travel,Train Ticket,Credit Card,4592
+10-06-2025,Shopping,Movie Ticket,Net Banking,827
+04-12-2025,Education,Fuel,Credit Card,4513
+10-08-2025,Travel,Movie Ticket,Credit Card,1949
+05-07-2025,Bills,Mobile Recharge,UPI,2654
+30-06-2025,Healthcare,Movie Ticket,Debit Card,4164
+09-07-2025,Bills,Movie Ticket,Net Banking,1163
+02-02-2025,Bills,Medical Checkup,Credit Card,881
+17-09-2025,Entertainment,Medical Checkup,UPI,2841
+18-07-2025,Entertainment,Medical Checkup,Credit Card,3539
+23-03-2025,Healthcare,Amazon Purchase,UPI,2284
+20-01-2025,Travel,Electricity Bill,Net Banking,4969
+12-04-2025,Education,Amazon Purchase,Debit Card,1474
+20-11-2025,Travel,Medical Checkup,Credit Card,3338
+10-03-2025,Bills,Train Ticket,Credit Card,1115
+27-02-2025,Healthcare,Movie Ticket,Credit Card,2670
+08-07-2025,Education,Movie Ticket,Credit Card,4354
+23-01-2025,Travel,Electricity Bill,Credit Card,1247
+18-08-2025,Travel,Online Course,Debit Card,1498
+21-08-2025,Entertainment,Amazon Purchase,UPI,216
+18-12-2025,Travel,Movie Ticket,UPI,4564
+01-05-2025,Shopping,Train Ticket,Debit Card,1623
+21-09-2025,Travel,Mobile Recharge,Net Banking,3721
+19-11-2025,Transport,Groceries,UPI,964
+22-11-2025,Shopping,Movie Ticket,Credit Card,1108
+10-05-2025,Healthcare,Electricity Bill,UPI,421
+23-09-2025,Shopping,Train Ticket,Net Banking,1503
+06-04-2025,Transport,Online Course,Debit Card,831
+04-02-2025,Bills,Fuel,Debit Card,3941
+02-03-2025,Education,Mobile Recharge,UPI,1042
+25-05-2025,Entertainment,Electricity Bill,Debit Card,4962
+15-03-2025,Entertainment,Medical Checkup,Debit Card,4768
+19-11-2025,Education,Fuel,Net Banking,629
+12-05-2025,Travel,Groceries,UPI,1731
+10-08-2025,Transport,Movie Ticket,Credit Card,481
+10-07-2025,Education,Mobile Recharge,Debit Card,4874
+10-05-2025,Transport,Train Ticket,UPI,3455
+23-07-2025,Education,Train Ticket,Debit Card,4004
+02-04-2025,Entertainment,Movie Ticket,Debit Card,895
+02-01-2025,Bills,Amazon Purchase,Net Banking,4290
+03-12-2025,Travel,Electricity Bill,UPI,3710
+05-02-2025,Entertainment,Groceries,UPI,2520
+20-05-2025,Bills,Movie Ticket,UPI,2882
+23-03-2025,Education,Online Course,UPI,2745
+22-01-2025,Shopping,Mobile Recharge,Debit Card,1465
+01-01-2025,Entertainment,Medical Checkup,UPI,932
+05-08-2025,Entertainment,Medical Checkup,Debit Card,4981
+18-08-2025,Education,Amazon Purchase,Debit Card,3120
+02-05-2025,Transport,Amazon Purchase,UPI,1943
+02-03-2025,Healthcare,Mobile Recharge,Debit Card,4232
+03-09-2025,Shopping,Electricity Bill,Credit Card,2098
+14-11-2025,Education,Fuel,Debit Card,4416
+30-08-2025,Transport,Mobile Recharge,Debit Card,3214
+27-10-2025,Healthcare,Movie Ticket,Net Banking,2433
+28-06-2025,Education,Online Course,UPI,1057
+17-05-2025,Travel,Fuel,Debit Card,901
+31-10-2025,Healthcare,Mobile Recharge,UPI,4941
+28-03-2025,Entertainment,Fuel,Net Banking,4983
+16-02-2025,Healthcare,Electricity Bill,Debit Card,2730
+05-03-2025,Entertainment,Online Course,Debit Card,2299
+07-04-2025,Education,Online Course,Credit Card,3503
+01-09-2025,Healthcare,Train Ticket,Credit Card,2177
+13-04-2025,Transport,Online Course,Credit Card,262
+28-12-2025,Shopping,Medical Checkup,Credit Card,760
+10-01-2025,Shopping,Amazon Purchase,UPI,3212
+25-07-2025,Transport,Medical Checkup,Credit Card,2041
+24-11-2025,Education,Medical Checkup,Net Banking,3275
+20-07-2025,Healthcare,Amazon Purchase,Debit Card,3425
+07-02-2025,Shopping,Fuel,Credit Card,4015
+07-01-2025,Transport,Movie Ticket,Credit Card,4121
+25-01-2025,Shopping,Medical Checkup,UPI,3916
+05-03-2025,Travel,Groceries,UPI,1876
+29-11-2025,Entertainment,Train Ticket,Net Banking,335
+22-06-2025,Shopping,Amazon Purchase,UPI,4195
+27-02-2025,Education,Medical Checkup,UPI,3541
+10-08-2025,Shopping,Amazon Purchase,UPI,2219
+22-01-2025,Shopping,Amazon Purchase,Credit Card,945
+05-09-2025,Shopping,Amazon Purchase,Debit Card,233
+19-03-2025,Travel,Online Course,Net Banking,1036
+31-01-2025,Shopping,Electricity Bill,UPI,1961
+16-05-2025,Travel,Online Course,Debit Card,587
+18-11-2025,Travel,Electricity Bill,Net Banking,4536
+05-08-2025,Transport,Medical Checkup,UPI,2176
+02-09-2025,Travel,Electricity Bill,Debit Card,2772
+25-02-2025,Transport,Movie Ticket,UPI,2320
+15-04-2025,Bills,Fuel,Credit Card,2668
+09-11-2025,Shopping,Fuel,Net Banking,520
+29-10-2025,Shopping,Electricity Bill,UPI,4682
+10-09-2025,Healthcare,Electricity Bill,Net Banking,1514
+08-10-2025,Entertainment,Fuel,Debit Card,2727
+29-11-2025,Travel,Mobile Recharge,Debit Card,4095
+04-04-2025,Entertainment,Train Ticket,Net Banking,1519
+16-01-2025,Bills,Amazon Purchase,Debit Card,774
+22-10-2025,Education,Train Ticket,UPI,1693
+25-05-2025,Shopping,Medical Checkup,Debit Card,3917
+18-12-2025,Healthcare,Online Course,Debit Card,2335
+13-01-2025,Entertainment,Medical Checkup,Net Banking,1358
+14-09-2025,Bills,Fuel,UPI,2531
+30-04-2025,Entertainment,Medical Checkup,UPI,3151
+06-08-2025,Bills,Fuel,Debit Card,4564
+13-07-2025,Bills,Fuel,Credit Card,777
+11-01-2025,Travel,Movie Ticket,UPI,2812
+29-12-2025,Transport,Movie Ticket,UPI,2954
+04-01-2025,Healthcare,Groceries,UPI,3073
+17-12-2025,Travel,Fuel,Debit Card,1535
+30-04-2025,Travel,Movie Ticket,UPI,4387
+30-01-2025,Travel,Online Course,Net Banking,4412
+10-02-2025,Healthcare,Movie Ticket,Net Banking,451
+23-01-2025,Entertainment,Fuel,Net Banking,1307
+26-01-2025,Shopping,Online Course,Debit Card,4490
+30-01-2025,Transport,Medical Checkup,Credit Card,1810
+06-12-2025,Education,Train Ticket,Net Banking,3680
+02-12-2025,Healthcare,Amazon Purchase,Credit Card,4153
+11-11-2025,Bills,Groceries,Net Banking,2931
+02-12-2025,Transport,Groceries,Net Banking,1888
+09-12-2025,Education,Online Course,Credit Card,2246
+20-03-2025,Healthcare,Movie Ticket,Credit Card,3274
+19-11-2025,Shopping,Medical Checkup,UPI,628
+08-11-2025,Travel,Train Ticket,Credit Card,4741
+24-08-2025,Healthcare,Medical Checkup,Debit Card,1943
+02-10-2025,Shopping,Amazon Purchase,Debit Card,4594
+10-08-2025,Education,Movie Ticket,Net Banking,4324
+11-08-2025,Travel,Amazon Purchase,Net Banking,800
+31-05-2025,Entertainment,Mobile Recharge,Net Banking,504
+20-03-2025,Entertainment,Train Ticket,Net Banking,2098
+28-09-2025,Healthcare,Electricity Bill,Credit Card,2841
+10-10-2025,Travel,Amazon Purchase,Debit Card,3706
+14-07-2025,Healthcare,Online Course,Debit Card,4081
+10-03-2025,Shopping,Train Ticket,Debit Card,3886
+10-06-2025,Bills,Medical Checkup,Debit Card,3975
+07-06-2025,Transport,Fuel,UPI,263
+26-07-2025,Travel,Train Ticket,Debit Card,401
+04-06-2025,Education,Train Ticket,Credit Card,83
+30-09-2025,Education,Fuel,Debit Card,3328
+25-01-2025,Healthcare,Groceries,Net Banking,640
+30-11-2025,Bills,Fuel,Net Banking,2469
+09-05-2025,Healthcare,Fuel,UPI,1276
+25-04-2025,Bills,Amazon Purchase,Credit Card,3870
+08-09-2025,Shopping,Movie Ticket,Net Banking,703
+23-08-2025,Shopping,Amazon Purchase,Debit Card,4404
+06-11-2025,Bills,Electricity Bill,Net Banking,3941
+03-05-2025,Education,Medical Checkup,Debit Card,2102
+24-03-2025,Bills,Movie Ticket,Net Banking,4983
+28-07-2025,Transport,Online Course,Net Banking,2862
+03-04-2025,Transport,Amazon Purchase,Credit Card,1659
+07-10-2025,Healthcare,Fuel,Debit Card,192
+08-03-2025,Bills,Fuel,Net Banking,1389
+03-08-2025,Education,Online Course,Net Banking,4849
+19-08-2025,Bills,Groceries,Credit Card,2517
+07-10-2025,Entertainment,Amazon Purchase,UPI,4511
+06-07-2025,Travel,Groceries,Net Banking,1500
+28-03-2025,Travel,Amazon Purchase,Net Banking,2120
+18-04-2025,Healthcare,Train Ticket,Credit Card,3200
+29-05-2025,Bills,Online Course,Net Banking,648
+02-10-2025,Healthcare,Mobile Recharge,Net Banking,2902
+19-07-2025,Education,Medical Checkup,UPI,1265
+24-07-2025,Travel,Electricity Bill,UPI,3916
+17-08-2025,Transport,Fuel,Debit Card,3916
+11-06-2025,Travel,Mobile Recharge,Credit Card,2258
+05-02-2025,Travel,Amazon Purchase,Debit Card,583
+09-10-2025,Transport,Electricity Bill,Credit Card,4761
+05-06-2025,Transport,Train Ticket,UPI,2196
+27-09-2025,Bills,Mobile Recharge,Credit Card,4666
+15-05-2025,Shopping,Medical Checkup,Net Banking,2847
+24-07-2025,Bills,Fuel,Credit Card,3325
+02-05-2025,Bills,Amazon Purchase,Credit Card,3965
+25-04-2025,Transport,Medical Checkup,Net Banking,4554
+18-04-2025,Transport,Mobile Recharge,Net Banking,4549
+14-05-2025,Education,Amazon Purchase,Credit Card,3425
+03-02-2025,Travel,Online Course,Net Banking,3417
+02-07-2025,Shopping,Electricity Bill,UPI,2467
+09-02-2025,Shopping,Mobile Recharge,Net Banking,1237
+14-03-2025,Transport,Movie Ticket,Debit Card,341
+18-08-2025,Healthcare,Amazon Purchase,Debit Card,1266
+05-09-2025,Shopping,Medical Checkup,Net Banking,3285
+01-06-2025,Transport,Mobile Recharge,UPI,3993
+27-08-2025,Healthcare,Electricity Bill,Credit Card,1921
+02-04-2025,Shopping,Mobile Recharge,Debit Card,2041
+01-12-2025,Healthcare,Fuel,Net Banking,832
+09-07-2025,Shopping,Train Ticket,Debit Card,2692
+08-03-2025,Transport,Movie Ticket,Net Banking,1443
+02-02-2025,Entertainment,Amazon Purchase,Debit Card,2715
+10-11-2025,Transport,Online Course,Credit Card,3326
+03-01-2025,Transport,Groceries,Net Banking,4749
+08-08-2025,Transport,Train Ticket,UPI,1198
+29-10-2025,Healthcare,Fuel,Net Banking,2373
+15-11-2025,Education,Fuel,UPI,654
+26-07-2025,Education,Medical Checkup,Credit Card,861
+11-11-2025,Education,Fuel,Credit Card,2670
+14-08-2025,Entertainment,Movie Ticket,Debit Card,3219
+09-06-2025,Shopping,Movie Ticket,UPI,2204
+26-01-2025,Shopping,Groceries,UPI,1278
+23-01-2025,Transport,Groceries,Debit Card,2902
+27-04-2025,Transport,Medical Checkup,Net Banking,2917
+12-10-2025,Travel,Mobile Recharge,Credit Card,1664
+28-11-2025,Entertainment,Movie Ticket,Net Banking,4014
+21-09-2025,Entertainment,Amazon Purchase,Debit Card,1995
+08-12-2025,Shopping,Fuel,Credit Card,3023
+09-10-2025,Transport,Online Course,Net Banking,2475
+22-07-2025,Shopping,Electricity Bill,Debit Card,3899
+15-04-2025,Bills,Mobile Recharge,Net Banking,1951
+25-04-2025,Shopping,Medical Checkup,UPI,3801
+22-01-2025,Transport,Online Course,Net Banking,4909
+30-05-2025,Travel,Train Ticket,UPI,2862
+23-11-2025,Travel,Groceries,Credit Card,1798
+09-02-2025,Transport,Mobile Recharge,Credit Card,282
+22-06-2025,Entertainment,Amazon Purchase,Debit Card,4295
+13-11-2025,Healthcare,Amazon Purchase,Debit Card,1660
+29-05-2025,Entertainment,Movie Ticket,Net Banking,3857
+20-12-2025,Entertainment,Medical Checkup,Net Banking,4302
+25-08-2025,Shopping,Medical Checkup,Debit Card,374
+23-08-2025,Entertainment,Fuel,Debit Card,2735
+26-08-2025,Shopping,Movie Ticket,UPI,1443
+06-01-2025,Education,Amazon Purchase,Net Banking,3439
+06-12-2025,Entertainment,Electricity Bill,Credit Card,2948
+13-05-2025,Bills,Electricity Bill,UPI,4416
+14-12-2025,Bills,Online Course,Credit Card,2455
+09-07-2025,Shopping,Medical Checkup,Credit Card,373
+03-07-2025,Education,Amazon Purchase,Credit Card,4112
+19-05-2025,Healthcare,Amazon Purchase,Net Banking,1305
+25-11-2025,Education,Mobile Recharge,Debit Card,4703
+14-11-2025,Shopping,Movie Ticket,Credit Card,3998
+15-10-2025,Healthcare,Amazon Purchase,UPI,1223
+08-11-2025,Shopping,Movie Ticket,Debit Card,751
+06-05-2025,Entertainment,Train Ticket,UPI,2175
+12-10-2025,Healthcare,Mobile Recharge,Net Banking,1962
+01-02-2025,Education,Groceries,UPI,1313
+03-02-2025,Travel,Electricity Bill,UPI,962
+10-09-2025,Transport,Fuel,Net Banking,2436
+20-09-2025,Education,Mobile Recharge,UPI,3750
+19-06-2025,Bills,Movie Ticket,UPI,1982
+08-02-2025,Education,Groceries,Credit Card,54
+23-05-2025,Education,Groceries,Credit Card,719
+23-08-2025,Bills,Mobile Recharge,UPI,846
+22-11-2025,Bills,Groceries,UPI,3233
+17-06-2025,Healthcare,Groceries,UPI,1390
+20-09-2025,Healthcare,Fuel,Net Banking,4755
+05-12-2025,Education,Electricity Bill,Net Banking,2398
+21-08-2025,Bills,Train Ticket,Net Banking,742
+03-05-2025,Shopping,Mobile Recharge,Debit Card,348
+16-10-2025,Entertainment,Movie Ticket,Net Banking,1434
+31-07-2025,Transport,Medical Checkup,Net Banking,2799
+30-11-2025,Entertainment,Movie Ticket,Net Banking,168
+12-11-2025,Entertainment,Groceries,Net Banking,2040
+25-10-2025,Bills,Amazon Purchase,Credit Card,3910
+10-09-2025,Shopping,Electricity Bill,Debit Card,4981
+03-10-2025,Healthcare,Medical Checkup,Credit Card,2998
+17-09-2025,Entertainment,Movie Ticket,UPI,657
+19-08-2025,Entertainment,Mobile Recharge,Debit Card,938
+21-02-2025,Shopping,Groceries,Credit Card,370
+03-03-2025,Education,Amazon Purchase,Credit Card,3529
+21-11-2025,Healthcare,Online Course,UPI,4606
+15-06-2025,Bills,Mobile Recharge,Credit Card,1507
+18-07-2025,Travel,Online Course,Debit Card,4550
+11-07-2025,Shopping,Amazon Purchase,Credit Card,1944
+09-11-2025,Travel,Amazon Purchase,UPI,3488
+25-11-2025,Transport,Medical Checkup,Net Banking,1498
+16-06-2025,Education,Mobile Recharge,UPI,105
+12-03-2025,Bills,Electricity Bill,UPI,3766
+29-10-2025,Transport,Mobile Recharge,Debit Card,652
+01-04-2025,Entertainment,Train Ticket,Net Banking,1089
+01-11-2025,Bills,Electricity Bill,Net Banking,4444
+06-06-2025,Bills,Groceries,UPI,756
+09-05-2025,Healthcare,Fuel,UPI,2452
+18-12-2025,Transport,Electricity Bill,Net Banking,3597
+23-09-2025,Education,Online Course,Debit Card,276
+12-07-2025,Education,Groceries,Credit Card,2545
+28-02-2025,Education,Amazon Purchase,Credit Card,3781
+14-06-2025,Travel,Groceries,Credit Card,704
+30-03-2025,Shopping,Train Ticket,Debit Card,961
+17-03-2025,Healthcare,Electricity Bill,UPI,208
+23-03-2025,Travel,Amazon Purchase,Net Banking,4543
+31-01-2025,Transport,Fuel,UPI,3469
+27-09-2025,Bills,Fuel,Debit Card,3255
+29-03-2025,Bills,Fuel,UPI,370
+02-02-2025,Healthcare,Fuel,Net Banking,2617
+17-06-2025,Bills,Mobile Recharge,Debit Card,335
+14-04-2025,Shopping,Movie Ticket,Credit Card,689
+14-05-2025,Education,Amazon Purchase,UPI,1153
+16-06-2025,Shopping,Movie Ticket,Credit Card,2908
+02-12-2025,Bills,Amazon Purchase,Credit Card,516
+10-05-2025,Healthcare,Mobile Recharge,Credit Card,3138
+29-05-2025,Shopping,Groceries,Net Banking,4011
+03-01-2025,Transport,Fuel,Net Banking,2877
+23-04-2025,Bills,Amazon Purchase,UPI,4374
+17-10-2025,Shopping,Online Course,Net Banking,3175
+06-09-2025,Education,Electricity Bill,Net Banking,2048
+26-06-2025,Travel,Movie Ticket,Credit Card,4075
+03-01-2025,Entertainment,Groceries,Credit Card,4737
+04-01-2025,Bills,Amazon Purchase,UPI,3068
+17-08-2025,Healthcare,Electricity Bill,Net Banking,4229
+06-01-2025,Transport,Amazon Purchase,Credit Card,144
+05-03-2025,Education,Amazon Purchase,Debit Card,4297
+09-06-2025,Transport,Train Ticket,UPI,3404
+11-09-2025,Education,Online Course,Credit Card,1426
+12-09-2025,Entertainment,Train Ticket,Net Banking,728
+14-04-2025,Shopping,Movie Ticket,Net Banking,4553
+25-03-2025,Transport,Online Course,Debit Card,2864
+02-07-2025,Shopping,Movie Ticket,Credit Card,2999
+02-06-2025,Entertainment,Amazon Purchase,UPI,2147
+15-11-2025,Entertainment,Electricity Bill,Net Banking,937
+19-03-2025,Travel,Medical Checkup,Credit Card,4172
+17-03-2025,Education,Electricity Bill,Credit Card,370
+09-12-2025,Entertainment,Movie Ticket,Debit Card,3881
+29-07-2025,Shopping,Fuel,Debit Card,3929
+07-02-2025,Bills,Groceries,Net Banking,1494
+28-02-2025,Shopping,Train Ticket,UPI,1133
+22-03-2025,Bills,Mobile Recharge,UPI,1528
+13-05-2025,Transport,Electricity Bill,Credit Card,2011
+10-12-2025,Shopping,Electricity Bill,Net Banking,3713
+17-10-2025,Healthcare,Train Ticket,Debit Card,4995
+02-01-2025,Travel,Mobile Recharge,Credit Card,804
+04-02-2025,Shopping,Mobile Recharge,Debit Card,104
+23-10-2025,Healthcare,Train Ticket,Credit Card,4500
+01-10-2025,Education,Groceries,UPI,763
+20-08-2025,Shopping,Medical Checkup,Debit Card,3078
+31-03-2025,Bills,Online Course,UPI,4796
+10-10-2025,Healthcare,Train Ticket,Credit Card,3121
+15-04-2025,Shopping,Fuel,Credit Card,4165
+21-02-2025,Shopping,Fuel,Credit Card,2048
+12-12-2025,Entertainment,Fuel,Credit Card,910
+05-02-2025,Travel,Groceries,Debit Card,1725
+01-12-2025,Shopping,Online Course,UPI,2857
+27-07-2025,Shopping,Fuel,UPI,1451
+02-04-2025,Travel,Online Course,Credit Card,3552
+09-09-2025,Travel,Movie Ticket,Debit Card,3878
+17-04-2025,Entertainment,Mobile Recharge,Debit Card,1671
+20-07-2025,Education,Medical Checkup,Debit Card,4317
+20-08-2025,Healthcare,Groceries,Net Banking,2503
+20-10-2025,Entertainment,Online Course,Credit Card,4432
+05-05-2025,Entertainment,Amazon Purchase,Debit Card,4749
+21-02-2025,Travel,Train Ticket,Credit Card,3448
+07-10-2025,Healthcare,Train Ticket,Debit Card,1896
+29-12-2025,Bills,Mobile Recharge,Net Banking,428
+03-09-2025,Education,Amazon Purchase,Debit Card,3860
+21-11-2025,Shopping,Mobile Recharge,Debit Card,2848
+16-07-2025,Entertainment,Train Ticket,Credit Card,1732
+30-04-2025,Transport,Mobile Recharge,Credit Card,3238
+17-03-2025,Education,Mobile Recharge,Debit Card,2613
+03-03-2025,Transport,Train Ticket,Net Banking,784
+24-04-2025,Education,Groceries,Net Banking,431
+28-10-2025,Education,Mobile Recharge,Credit Card,2450
+25-01-2025,Entertainment,Electricity Bill,Net Banking,2302
+06-10-2025,Entertainment,Fuel,Debit Card,3782
+10-06-2025,Education,Groceries,UPI,3570
+01-03-2025,Shopping,Fuel,Net Banking,281
+21-09-2025,Bills,Fuel,Credit Card,3839
+05-09-2025,Entertainment,Movie Ticket,Net Banking,2270
